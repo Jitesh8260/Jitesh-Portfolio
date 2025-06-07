@@ -15,7 +15,7 @@ This is my personal developer portfolio built using **React** and **Vite**, styl
 
 ## 🌐 Live Demo
 
-🔗 [jitesh-portfolio.vercel.app](https://jitesh-portfolio.vercel.app/)  
+🔗 [jitesh-portfolio.vercel.app](https://jitesh-portfolio-sigma.vercel.app/)  
 <!-- Apna actual deployed URL yahan update karein -->
 
 ---
