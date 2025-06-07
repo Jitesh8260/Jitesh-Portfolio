@@ -101,7 +101,7 @@ This project is **automatically deployed** using Vercel:
 
 ## 📸 Screenshots
 
-![Desktop Screenshot]()
+![Desktop Screenshot](https://github.com/Jitesh8260/Jitesh-Portfolio/blob/main/src/assets/readme_content/image.png)
 <!-- Add your own screenshots or a short GIF here for better presentation -->
 
 ---
