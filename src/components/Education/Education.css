@@ -1,0 +1,14 @@
+@media screen and (max-width: 1322px) {
+  .timeline-circle {
+    display: none;
+  }
+  .content-section {
+    margin-left: 0px;
+    padding: 10px;
+    margin-right: 0px;
+  }
+  .content-section:hover {
+    scale: 1;
+    transform: none;
+  }
+}
